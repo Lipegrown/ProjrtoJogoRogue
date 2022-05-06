@@ -1,0 +1,42 @@
+unit u_Raca;
+
+interface
+
+type
+    TRaca = class
+      private
+            nome: String;
+            descricao: String;
+
+      public
+            procedure setNome(nome:String);
+            function getNome:String;
+            procedure setDescricao(nome:String);
+            function getDescricao:String;
+    end;
+
+implementation
+
+{ TRaca }
+
+function TRaca.getDescricao: String;
+begin
+       result:= self.descricao;
+end;
+
+function TRaca.getNome: String;
+begin
+       result:= self.nome;
+end;
+
+procedure TRaca.setDescricao(nome: String);
+begin
+     self.descricao:= descricao;
+end;
+
+procedure TRaca.setNome(nome: String);
+begin
+     self.nome:= nome;
+end;
+
+end.

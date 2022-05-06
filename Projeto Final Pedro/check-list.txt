@@ -1,0 +1,19 @@
+Classes a serem criadas no projeto
+
+-Raça : feito
+-Classe: feito
+-Atributos:feito
+-Ataques e Magias:feito
+-Equipamento:feito
+-Combate
+-Dados
+-Quest
+-Dialogo
+-Montros
+-NPC
+-Localização
+-Tesouro
+-Armadilhas
+-Dungeons
+-Log
+-História
