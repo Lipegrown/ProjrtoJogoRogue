@@ -6,14 +6,7 @@ Classes a serem criadas no projeto
 -Ataques e Magias:feito
 -Equipamento:feito
 -Combate
--Dados
--Quest
--Dialogo
--Montros
--NPC
--Localização
--Tesouro
--Armadilhas
--Dungeons
--Log
--História
+-Montros:feito
+-Tesouro:feito
+-Armadilhas:feito
+-Dungeon:feito

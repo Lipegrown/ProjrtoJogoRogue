@@ -1,0 +1,83 @@
+unit u_Monstros;
+
+interface
+
+type
+  TMonstros = class
+    private
+        id : integer;
+        nome: String;
+        descricao: String;
+        experiencia: integer;
+        vida: integer;
+
+
+    public
+          procedure setId(id:integer);
+            function getId:integer;
+            procedure setNome(nome:String);
+            function getNome:String;
+            procedure setDescricao(descricao:String);
+            function getDescricao:String;
+            procedure setExperiencia(experiencia: String);
+            function getExperiencia:String;
+            procedure setVida(experiencia: integer);
+            function getVida:integer;
+
+  end;
+
+implementation
+
+{ TMonstros }
+
+function TMonstros.getDescricao: String;
+begin
+
+end;
+
+function TMonstros.getExperiencia: String;
+begin
+
+end;
+
+function TMonstros.getId: integer;
+begin
+
+end;
+
+function TMonstros.getNome: String;
+begin
+
+end;
+
+function TMonstros.getVida: integer;
+begin
+
+end;
+
+procedure TMonstros.setDescricao(descricao: String);
+begin
+
+end;
+
+procedure TMonstros.setExperiencia(experiencia: String);
+begin
+
+end;
+
+procedure TMonstros.setId(id: integer);
+begin
+
+end;
+
+procedure TMonstros.setNome(nome: String);
+begin
+
+end;
+
+procedure TMonstros.setVida(experiencia: integer);
+begin
+
+end;
+
+end.

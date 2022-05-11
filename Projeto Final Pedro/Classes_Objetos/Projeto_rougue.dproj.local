@@ -2,19 +2,27 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2021/10/28 19:15:58.000.780,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/05/06 18:55:28.169,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 18:56:18.277,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\u_ProjetoDeD.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 18:56:18.277,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\u_ProjetoDeD.dfm=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>2022/05/06 19:03:58.601,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:04:44.276,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Raca.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:12:38.340,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:13:04.788,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Classe.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:26:35.827,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:26:47.937,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_atributos.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:49:34.748,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 19:50:36.244,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Ataques_e_Magias.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 20:10:58.351,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 20:11:22.267,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Equipamento.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/05/06 20:28:35.521,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Projeto_rougue.dproj=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/06 18:55:28.000.169,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 18:56:18.000.277,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\u_ProjetoDeD.dfm</Transaction>
+    <Transaction>2022/05/06 18:56:18.000.277,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\u_ProjetoDeD.pas</Transaction>
+    <Transaction>2022/05/06 19:03:58.000.601,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 19:04:44.000.276,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Raca.pas</Transaction>
+    <Transaction>2022/05/06 19:12:38.000.340,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 19:13:04.000.788,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Classe.pas</Transaction>
+    <Transaction>2022/05/06 19:26:35.000.827,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 19:26:47.000.937,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_atributos.pas</Transaction>
+    <Transaction>2022/05/06 19:49:34.000.748,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 19:50:36.000.244,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Ataques_e_Magias.pas</Transaction>
+    <Transaction>2022/05/06 20:10:58.000.351,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/06 20:11:22.000.267,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Equipamento.pas</Transaction>
+    <Transaction>2022/05/06 20:28:35.000.521,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Projeto_rougue.dproj</Transaction>
+    <Transaction>2022/05/11 19:00:42.053,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:08:08.052,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Monstros.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:19:27.579,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:19:37.231,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Tesouro.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:29:56.379,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:30:10.301,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Dungeon.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:32:05.247,=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 19:32:24.401,C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\u_Armadilhas.pas=C:\Users\felipe.souza7\OneDrive - SENAC-SC\Área de Trabalho\Projeto Final Pedro\Classes_Objetos\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
